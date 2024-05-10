@@ -8,6 +8,11 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+  "author": {
+    "name": "Changge Zhang",
+    "url": "https://github.com/ChanggeZhang/vue_demo.git",
+    "email": "2925351487@qq.com"
+  },
   "dependencies": {
     "vue": "^3.4.21"
   },
